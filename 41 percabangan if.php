@@ -12,4 +12,4 @@ if($total_belanja > 100000){
     echo "Anda dapat hadiah!";
 }
 
-print_r("<p><strong><i>By Meylisa eka putry</strong>");
+print_r("<i><p><strong><i>By  :Ahmad arjun trisula</strong>");
