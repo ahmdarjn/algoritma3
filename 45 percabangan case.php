@@ -1,6 +1,6 @@
 <?php 
 
-$level = 2;
+$level = 3;
 
 switch($level){
     case 1:
